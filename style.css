@@ -246,6 +246,10 @@ hr{
         font-size: 12px;
         line-height: 14px;
     }
+    
+.movie-slide:active, .movie-slide:focus{
+    border:none !important;
+}
 }
 @media(max-width: 427px){
     .navbar-brand img{

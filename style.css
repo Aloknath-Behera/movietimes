@@ -249,7 +249,7 @@ hr{
     
 .movie-slide:active, .movie-slide:focus, .movie-slide:hover, .movie-slide:focus-visible{
     border: none !important;
-    background-color: var(--bg-header);
+    background-color: #0e3f3c !important;
 }
 }
 @media(max-width: 427px){

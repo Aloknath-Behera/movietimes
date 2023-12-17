@@ -247,7 +247,7 @@ hr{
         line-height: 14px;
     }
     
-.movie-slide:active, .movie-slide:focus{
+.movie-slide:active, .movie-slide:focus, .movie-slide:hover, .movie-slide:focus-visible{
     border:none !important;
 }
 }

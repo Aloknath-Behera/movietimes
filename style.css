@@ -170,6 +170,14 @@ hr{
 .navbar .nav-link:hover, .nav-link:active{
     color: var(--heading-text);
 }
+.banner-corousel .slick-prev{
+    left: 40px;
+    z-index: 1;
+}
+.banner-corousel .slick-next{
+    right: 40px;
+    z-index: 1;
+}
 /* .slick-slider .btn-primery-1{
     position: absolute;
     bottom: 10%;
